@@ -9,14 +9,23 @@ companies = [
     "WIX",
     "Windows",
     "Mac OS",
-    "Linux"
+    "Linux",
+    "PowerPoint",
+    "Blender",
+    "VirtualBox",
+    "Audacity"
 ]
 
 categories = [
     "website",
     "web app",
     "desktop app",
-    "mobile app"
+    "mobile app",
+    "development environment",
+    "game",
+    "game engine",
+    "programming language",
+    "shell"
 ]
 
 subject = [
@@ -24,7 +33,8 @@ subject = [
     "developers",
     "designers",
     "average people",
-    "builders"
+    "builders",
+    "business owners"
 ]
 
 while True:
