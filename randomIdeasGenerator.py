@@ -7,13 +7,16 @@ companies = [
     "Github",
     "YouTube",
     "WIX",
-    "Windows",
+    "Windows 7",
+    "Windows 10",
     "Mac OS",
     "Linux",
     "PowerPoint",
     "Blender",
     "VirtualBox",
-    "Audacity"
+    "Audacity",
+    "Unix",
+    "MS-DOS"
 ]
 
 categories = [
@@ -25,7 +28,8 @@ categories = [
     "game",
     "game engine",
     "programming language",
-    "shell"
+    "shell",
+    "operating system"
 ]
 
 subject = [
@@ -33,7 +37,6 @@ subject = [
     "developers",
     "designers",
     "average people",
-    "builders",
     "business owners"
 ]
 
